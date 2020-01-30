@@ -19,7 +19,7 @@ We will fetching the list of To Dos from the json server and rendering each onto
 
 Ultimately, we want our App to look something like:
 
-![Image of Finished](images/finishedApp.png)
+![Image of Finished](public/finishedApp.png)
 
 ### `yarn start`
 
