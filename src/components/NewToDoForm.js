@@ -5,7 +5,7 @@ export default class NewToDoForm extends Component {
     return (
       <div>
         <form className="ui form">
-            <h2>New ToDo</h2>
+            <h1>New ToDo</h1>
             <div className="field">
                 <label>Title</label>
                 <input type="text" name="title" placeholder="Title"/>
