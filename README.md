@@ -6,9 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Run `npm install`
 
-We will be working off a JSON server.
+To get you going, we've got a backend with todos! To get get these, you're going to have to do the following:
 
-Get the server running with `json-server --watch db.json`
+1. Run `json-server --watch db.json`
+2. Visit `http://localhost:3000/todos` to confirm delivery of sushi!
 
 Let's run the app with `npm run start` or `npm start`
 
@@ -33,20 +34,20 @@ Here is a gif of what it's supposed to look:
 
 * Add a new todo. Make a POST request to http://localhost:3000/todos. 
 Don't forget: 
-``{
+```
     method: "POST",
     headers: {
         "Content-Type": "application/json",
         "Accept": "application/json"
     },
     body: JSON.stringify({})
-}``
+```
 * When the todo is successfully created in the server, make sure it is also rendered in React.
 * Delete a todo. Make a DELETE request to http://localhost:3000/todos/:id
 Don't forget:
-``{
+```
     method: "DELETE"
-}``
+```
 * When the todo is successfully deleted, also remove from React.
 
 Here is a gif of what it's supposed to look:
