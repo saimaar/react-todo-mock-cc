@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Run `npm install`
 
-To get you going, we've got a backend with todos! To get get these, you're going to have to do the following:
+To get you going, we've got a backend with todos! To get these, you're going to have to do the following:
 
 1. Run `json-server --watch db.json`
 2. Visit `http://localhost:3000/todos` to confirm delivery of sushi!
