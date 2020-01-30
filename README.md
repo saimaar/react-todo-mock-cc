@@ -10,9 +10,12 @@ We will be working off a JSON server.
 
 Get the server running with `json-server --watch db.json`
 
+Let's run the app with `npm run start` or `npm start`
+
 ## Background
 
-In the project directory, you can run:
+We have a React To Do List. We want the App to manage which ones are Completed and which ones are Incomplete (too lazy to keep track).
+We will fetching the list of To Dos from the json server and rendering each onto the page while organizing which ones go in the appropriate category. 
 
 ### `yarn start`
 
