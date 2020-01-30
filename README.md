@@ -21,6 +21,8 @@ Ultimately, we want our App to look something like:
 
 ![Image of Finished](public/finishedApp.png)
 
+
+![Change Complete Gif](public/ChangingTasks.gif)
 ### `yarn start`
 
 Runs the app in the development mode.<br />
