@@ -9,7 +9,7 @@ Run `npm install`
 To get you going, we've got a backend with todos! To get these, you're going to have to do the following:
 
 1. Run `json-server --watch db.json`
-2. Visit `http://localhost:3000/todos` to confirm delivery of sushi!
+2. Visit `http://localhost:3000/todos` to confirm the list of todos.
 
 Let's run the app with `npm run start` or `npm start`
 
