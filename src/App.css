@@ -6,7 +6,8 @@
   display: flex;
   justify-content: space-around;
   padding: 10px;
-  /* height: 75vh; */
+  height: 75vh;
+  overflow: scroll;
 }
 
 #react-image {
@@ -14,6 +15,6 @@
   height: 75px;
 }
 
-.header {
+.todo-header {
   height: 25vh;
 }
