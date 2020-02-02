@@ -16,7 +16,7 @@ Let's run the app with `npm run start` or `npm start`
 ## Background
 
 We have a React To Do List. We want the App to manage which ones are Completed and which ones are Incomplete (too lazy to keep track).
-We will fetching the list of To Dos from the json server and rendering each onto the page while organizing which ones go in the appropriate category. At the same time, we want to be able to add and remove todos from the list.
+We will be fetching the list of To Dos from the json server and render each one onto the page while organizing which ones go in the appropriate category. At the same time, we want to be able to add and remove todos from the list.
 
 Ultimately, we want our App to look something like:
 
@@ -62,5 +62,5 @@ Here is a gif of what it's supposed to look:
 
 ### Bonus
 
-* Notice the Complete and Incomplete Components are bit redundant. Anyway to reuse just one component for both of them? (You may have to restructure a component to make this successfully work.)
+* Notice the Complete and Incomplete Components are a bit redundant. Is there anyway to reuse just one component for both of them? (You may have to restructure a component to make this successfully work.)
 
