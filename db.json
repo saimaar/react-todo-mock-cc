@@ -13,8 +13,16 @@
       "completed": false
     },
     {
-      "title": "Workout",
-      "completed": true
+      "title": "Convince Eric there's more to life than Fortnite",
+      "completed": false
+    },
+    {
+      "title": "Convince Eric that there are better games to play",
+      "completed": false
+    },
+    {
+      "title": "Educate Eric that Overwatch is better than Fortnite",
+      "completed": false
     },
     {
       "title": "Lecture",
@@ -22,6 +30,14 @@
     },
     {
       "title": "Code",
+      "completed": true
+    },
+    {
+      "title": "NOT watch Eric play Fortnite",
+      "completed": true
+    },
+    {
+      "title": "Ignore Eric's request to play Fortnite with him",
       "completed": true
     }
   ]
