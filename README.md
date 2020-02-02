@@ -62,5 +62,5 @@ Here is a gif of what it's supposed to look:
 
 ### Bonus
 
-* Notice the Complete and Incomplete Components are a bit redundant. Is there anyway to reuse just one component for both of them? (You may have to restructure a component to make this successfully work.)
+* Notice the Complete and Incomplete Components are a bit redundant. Is there anyway to reuse just one component for both of them?
 
