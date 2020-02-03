@@ -68,7 +68,7 @@ Here is a gif of what it's supposed to look:
 
 ### Unnecessary Bonus but Good Practice Bonus
 
-* Let's say we wanted to sort out all the todos but longest title. Generate a button that handles that event. If the button is clicked again, the todos should be listed in their original order in the database. It is entirely up to you where to place the methods and buttons.
+* Let's say we wanted to sort out all the todos by longest title on top. Generate a button that handles that event. If the button is clicked again, the todos should be listed in their original order in the database. It is entirely up to you where to place the methods and buttons.
 
 Here is how the button should look like (just for style):
 
