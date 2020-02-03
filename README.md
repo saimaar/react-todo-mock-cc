@@ -24,6 +24,8 @@ Ultimately, we want our App to look something like:
 
 ## Deliverables
 
+**It might help to first draw out the component hierarchy**
+
 * Fetch the data from http://localhost:3000/todos
 * Render the each todo in the appropriate component
 * Each todo card will have button to change the complete status which will conditionally render based on the location of component. (i.e if a todo is under the Complete, the button text should say Incomplete and vice-versa.)
