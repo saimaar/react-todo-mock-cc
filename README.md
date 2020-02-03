@@ -73,7 +73,10 @@ Here is a gif of what it's supposed to look:
 Here is how the button should look like (just for style):
 
 (This button should appear if it's not sorted)
+```
 <button className="ui button green">Sort by Title Length</button>
-
+```
 (This button should appear if it's sorted)
+```
 <button className="ui button purple">Sort Title Normally</button>
+```
