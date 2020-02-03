@@ -66,3 +66,14 @@ Here is a gif of what it's supposed to look:
 
 * Notice the Complete and Incomplete Components are a bit redundant. Is there anyway to reuse just one component for both of them?
 
+### Unnecessary Bonus but Good Practice Bonus
+
+* Let's say we wanted to sort out all the todos but longest title. Generate a button that handles that event. If the button is clicked again, the todos should be listed in their original order in the database. It is entirely up to you where to place the methods and buttons.
+
+Here is how the button should look like (just for style):
+
+(This button should appear if it's not sorted)
+<button className="ui button green">Sort by Title Length</button>
+
+(This button should appear if it's sorted)
+<button className="ui button purple">Sort Title Normally</button>
